@@ -47,10 +47,12 @@ public class LogInScripts extends BaseTest
 		}
 		
 		
-		
-		
-		
+	}
+	
+	public void tc_02()
+	{
 		
 	}
+	
 
 }
